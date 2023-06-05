@@ -13,3 +13,4 @@ Java topics to learn
 - maven
 - lambda
 - why strings are immubatle in Java
+- map and hashmap
