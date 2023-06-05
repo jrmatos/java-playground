@@ -3,6 +3,7 @@ Java topics to learn
 - checked vs unchecked exceptions - OK
 - multithreading - OK
 - generics - OK
+- sealed and permits - OK
 - records
 - collections framework
 - optionals
