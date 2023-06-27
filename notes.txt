@@ -4,7 +4,7 @@ Java topics to learn
 - multithreading - OK
 - generics - OK
 - sealed and permits - OK
-- records
+- records - OK
 - collections framework
 - optionals
 - streams
