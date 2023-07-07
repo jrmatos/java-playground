@@ -1,6 +1,6 @@
 # Java Playground
 
-Repository to practice some concepts of Java programming language.
+Repository to practice some concepts of the Java programming language.
 
 ## Youtube channels
 
